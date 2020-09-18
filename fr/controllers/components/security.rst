@@ -184,7 +184,7 @@ de sécurité que vous voulez et le component Security les forcera au démarrage
         }
     }
 
-Cette exemple forcera toutes les actions qui proviennent de la "route" Admin à
+Cet exemple forcera toutes les actions qui proviennent de la "route" Admin à
 être effectuées via des requêtes sécurisées::
 
     namespace App\Controller;
